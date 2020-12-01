@@ -35,7 +35,7 @@ This repository is intended to contain a combination of: </br>
   <li>Use of LaTeX</li>
 </ul>
 
-<h3> How to run a Jupyter Notebook </h3>
+### How to run a Jupyter Notebook
 In order to run Jupyter Notebook on a machine, you need the programming language Python to be pre-installed. <br>
 
 <p><strong><i>"While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself."</i></strong></p>
@@ -55,6 +55,17 @@ If you wish to install the Anaconda package aswell, here is the link: https://ww
 
 Further information in relation to the basics of Jupyter Notebook can be found here: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 <br>
+<<<<<<< HEAD
+
+### Task Description:
+
+#### Task 1: Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places.
+#### Task 2: Chi-squared test: Use scipy.stats to verify this value and calculate the associated p value.
+#### Task 3: Research these Excel functions STDEV.P and STDEV.S
+#### Task 4: Use scikit-learn to apply k-means clustering to Fisher’s famous Iris data set.
+
+=======
+>>>>>>> 4d55b1c7d99fea472702929fe67de2b2b672f8e6
 
 ### Task Description:
 
@@ -64,7 +75,7 @@ Further information in relation to the basics of Jupyter Notebook can be found h
 #### Task 4: Use scikit-learn to apply k-means clustering to Fisher’s famous Iris data set.
 
 
-<h3>References</h3>
+### References
 <ul>
   <li> https://www.w3schools.com/html/html_lists.asp </li>
   <li> https://jupyter-notebook.readthedocs.io/en/stable/ </li>
