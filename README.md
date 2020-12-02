@@ -6,20 +6,23 @@
 
 </br>
 
+### Galway-Mayo Institute of Technology
+
+### Course: H. Dip in Science in Computing (Data Analytics)
+
 ### Module: Machine Learning and Statistics
 
-### Submitted By: Valerie Walsh G00364748
-### Galway-Mayo I.T. Student
+### Student: Valerie Walsh G00364748, Galway-Mayo I.T. Student
 
 </br>
 
 ### <i>Description:</i> 
 <br>
-This repository contains work that I have completed for the assessment part of my course entitled 'Tasks 2020' which is an aspect of the module Machine Learning and Statistics. 
+This repository contains work that I have completed for the assessment aspect of the module Machine Learning and Statistics.
 <br>
-This repository is made up of 4 seperate tasks / assignments that is solely my own work that has been created and developed during this college terms. 
+The repository contains 4 seperate tasks / assignments that is solely my own work that has been created and developed during this college term. 
 <br>
-I have used the open-source option, Jupyter Notebook, as my method of creating and adding to my GitHub repository. Information on what the Jupyter Notebook is along with Installation and How-To info can be found here: https://jupyter-notebook.readthedocs.io/en/stable/
+In order to build and contribute to this repository, I used the open-source option, Jupyter Notebook. Further information on what the Jupyter Notebook is along with Installation and How-To info can be found here: https://jupyter-notebook.readthedocs.io/en/stable/ 
 <br>
 It is my intention to build upon this repository through a series of regular commits which will portray consistency in my work and allow time management to not be an issue. 
 <br>
@@ -36,11 +39,11 @@ This repository is intended to contain a combination of: </br>
 </ul>
 
 ### How to run a Jupyter Notebook
-In order to run Jupyter Notebook on a machine, you need the programming language Python to be pre-installed. <br>
+As I intended to using the Python language within my Jupyter Notebook, I firstly needed to ensure that the programming language Python is pre-installed on my machine. <br>
 
 <p><strong><i>"While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself."</i></strong></p>
 <br>
-I already have the Anaconda package installed on my computer, which includes the Python language. Once I ensured I was on the latest software version of this, I was able to run Jupyter without difficulties.<br>
+I already have the Anaconda package installed on my computer, which includes the Python language. Once I ensured that this package was on the latest software version, I was able to run Jupyter without difficulties.<br>
 If you wish to install the Anaconda package aswell, here is the link: https://www.anaconda.com/download
 <br><br>
 <ul>
@@ -49,13 +52,13 @@ If you wish to install the Anaconda package aswell, here is the link: https://ww
     <li>Throughout the usage of the Juypter Notebook, the Command Prompt window remains open in the background creating backups of your content from Jupyter while you make contributions.</li>
     <li>When you have finished making contributions to your repository and wish to end the session, it is best practice to close all Jupyter Notebook tabs <strong>before</strong> interacting with the Command Prompt window.</li>
     <li>In order to successfully end a Jupyter session, press Ctrl + C while in the Command Prompt window. This will fully shut down and terminate the connection to Jupyter.</li>
-    <li>At this point, it is extremely important to remember that you need to <i>'commit</i> your work to GitHub in order to complete and fully save your work to your repository. If you choose to close Command Prompt without doing this, you will abandon and lose all work made during this commitment.</li>
-    <li>To complete and commit work to GitHub from the Command Prompt, I chose to enter these prompts in the following order: **<i> 1. git status , 2. git add . , 3. git commit -m "add message for contribution as a comment", 4. git push**</i> </li>
+    <li>At this point, it is extremely important to remember that you need to <i>'commit'</i> your work to GitHub in order to fully save your work to your repository on the platform. If you choose to close Command Prompt without doing this, you will abandon and lose all work made during this commitment.</li>
+    <li>To complete and commit work to GitHub from the Command Prompt, I chose to enter these prompts in the following order: <i> <strong>Command 1:</strong> git status , <strong>Command 2:</strong> git add . , <strong>Command 3:</strong> git commit -m "add message for contribution as a comment", <strong>Command 4:</strong> git push </i> </li>
 </ul>
 
 Further information in relation to the basics of Jupyter Notebook can be found here: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 <br>
-<<<<<<< HEAD
+
 
 ### Task Description:
 
@@ -64,23 +67,19 @@ Further information in relation to the basics of Jupyter Notebook can be found h
 #### Task 3: Research these Excel functions STDEV.P and STDEV.S
 #### Task 4: Use scikit-learn to apply k-means clustering to Fisher’s famous Iris data set.
 
-=======
->>>>>>> 4d55b1c7d99fea472702929fe67de2b2b672f8e6
 
-### Task Description:
-
-#### Task 1: Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places.
-#### Task 2: Chi-squared test: Use scipy.stats to verify this value and calculate the associated p value.
-#### Task 3: Research these Excel functions STDEV.P and STDEV.S
-#### Task 4: Use scikit-learn to apply k-means clustering to Fisher’s famous Iris data set.
 
 
 ### References
+
 <ul>
   <li> https://www.w3schools.com/html/html_lists.asp </li>
+  <li> https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html </li>
   <li> https://jupyter-notebook.readthedocs.io/en/stable/ </li>
   <li> http://jupyter.org/install </li>
   <li> https://www.anaconda.com </li>
   <li> https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html </li>
+  <li>https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html</li>
+    <li> https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html </li>
 </ul>
 </br>
