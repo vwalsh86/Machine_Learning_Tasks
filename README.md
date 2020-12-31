@@ -64,6 +64,7 @@ If you wish to install the Anaconda package aswell, here is the link: https://ww
     <li>At this point, it is extremely important to remember that you need to <i>'commit'</i> your work to GitHub in order to fully save your work to your repository on the platform. If you choose to close Command Prompt without doing this, you will abandon and lose all work made during this commitment.</li>
     <li>To complete and commit work to GitHub from the Command Prompt, I chose to enter these prompts in the following order: <i> <strong>Command 1:</strong> git status , <strong>Command 2:</strong> git add . , <strong>Command 3:</strong> git commit -m "add message for contribution as a comment", <strong>Command 4:</strong> git push </i> </li>
 </ul>
+* Once you have completed the above commands on the command line I would refer to github.com to confirm that the changes have been successfully committed to your repository and that your work is saved and secure. If you happen to add files or changes to the repository directly to github.com you will need to run the command <i>git pull</i> to allow the remote changes to be downloaded to your machine so that they both match. 
 
 Further information in relation to the basics of Jupyter Notebook can be found here: https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 <br>
