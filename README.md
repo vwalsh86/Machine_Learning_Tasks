@@ -2,7 +2,7 @@
 
 ***
 
-![Machine_Learning](machine.jpeg)
+![Machine_learning](machine.jpeg)
 
 </br>
 
