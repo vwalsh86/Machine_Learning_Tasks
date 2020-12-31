@@ -1,10 +1,16 @@
 ### README file for Tasks assessmement
 
+***
+
+![Machine_Learning](machine.jpeg)
+
 </br>
 
 ## Assessement: Tasks 2020
 
 </br>
+
+***
 
 ### Galway-Mayo Institute of Technology
 
@@ -13,6 +19,8 @@
 ### Module: Machine Learning and Statistics
 
 ### Student: Valerie Walsh G00364748, Galway-Mayo I.T. Student
+
+***
 
 </br>
 
