@@ -18,15 +18,15 @@
 
 ### <i>Description:</i> 
 <br>
-This repository contains work that I have completed for the assessment aspect of the module Machine Learning and Statistics.
+This repository contains work that I have completed for the assessment aspect of the module "Machine Learning and Statistics".
 <br>
-The repository contains 4 seperate tasks / assignments that is solely my own work that has been created and developed during this college term. 
+The repository is made up of 4 seperate tasks as set out by the lecturer of the module. I can confirm that the work found in my repository is that solely of my own work that has been created and developed during this college term. Any third-party content within the repository has been referenced and the recognition given to the creator of that work.  
 <br>
-In order to build and contribute to this repository, I used the open-source option, Jupyter Notebook. Further information on what the Jupyter Notebook is along with Installation and How-To info can be found here: https://jupyter-notebook.readthedocs.io/en/stable/ 
+In order to build and contribute to this repository, I used the open-source option, Jupyter Notebook. In order to allow ease of contribution to it, I cloned the repository to my machine and made regular contributions via my laptop. <br>
+Further information on what the Jupyter Notebook is along with Installation and How-To info can be found here: https://jupyter-notebook.readthedocs.io/en/stable/ 
 <br>
-It is my intention to build upon this repository through a series of regular commits which will portray consistency in my work and allow time management to not be an issue. 
+It is my intention to contribute to this repository through a series of regular commitments which will portray consistency in my work and allow time-management to not be an issue as the due date approaches.
 <br>
-I confirm that the work displayed within this repository will be of my own and I commit to reference and acknowledge any other persons work as apart of my research for completing this repository.
 <br>
 
 This repository is intended to contain a combination of: </br>
@@ -39,11 +39,12 @@ This repository is intended to contain a combination of: </br>
 </ul>
 
 ### How to run a Jupyter Notebook
-As I intended to using the Python language within my Jupyter Notebook, I firstly needed to ensure that the programming language Python is pre-installed on my machine. <br>
+
+As I intend to using the Python language within my Jupyter Notebook, I firstly need to ensure that the programming language Python is pre-installed on my machine. <br>
 
 <p><strong><i>"While Jupyter runs code in many programming languages, Python is a requirement (Python 3.3 or greater, or Python 2.7) for installing the Jupyter Notebook itself."</i></strong></p>
 <br>
-I already have the Anaconda package installed on my computer, which includes the Python language. Once I ensured that this package was on the latest software version, I was able to run Jupyter without difficulties.<br>
+I already have the Anaconda package installed on my computer, which includes the Python language. Once I ensured that this package was on the latest software version, I know that I can now run Jupyter without difficulties.<br>
 If you wish to install the Anaconda package aswell, here is the link: https://www.anaconda.com/download
 <br><br>
 <ul>
@@ -67,7 +68,7 @@ Further information in relation to the basics of Jupyter Notebook can be found h
 #### Task 3: Research these Excel functions STDEV.P and STDEV.S
 #### Task 4: Use scikit-learn to apply k-means clustering to Fisher’s famous Iris data set.
 
-
+<i>Note: I have uploaded the PDF containing the assessment information to this repository for clarity.
 
 
 ### References
